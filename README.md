@@ -126,7 +126,7 @@ h1
 ```
 
 ## Live Web page:
-
+https://samjxdev.github.io/Quote_Generator/
 
 ## Output:
 <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/250debe6-e350-41c0-807a-b1f13b44650b" />
